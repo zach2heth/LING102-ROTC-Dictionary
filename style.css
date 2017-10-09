@@ -1,0 +1,31 @@
+.toppart{
+  background-color: #5F8AA7;
+  height: 25%;
+}
+
+.fixedmenu{
+  background-color: blue;
+}
+
+.ui.text{
+  font-size: large;
+}
+
+.ui.centered.two.column.term.grid{
+  font-size: large;
+  <!--background-color: darkorange; -->
+  color:white;
+  margin-top:3%;
+}
+
+.row{
+  padding: 3%;
+}
+
+.intro{
+}
+
+.definition{
+  margin-top: 3%;
+
+}
